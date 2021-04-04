@@ -1,6 +1,6 @@
 function submission(){
 
-        preventDefault;
+        preventDefault();
 let a = document.getElementById('stufi').value;
 let b = document.getElementById('stula').value;
 let c = document.getElementById('mofi').value;
