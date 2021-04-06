@@ -1,5 +1,4 @@
 function submission(){
-        window.stop();
 let sfn= document.getElementById('stufi').value;
 let sln= document.getElementById('stula').value;
 let mfn = document.getElementById('mofi').value;
